@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/5_collecting_signatures.dir/main.cpp.o  -o 5_collecting_signatures 

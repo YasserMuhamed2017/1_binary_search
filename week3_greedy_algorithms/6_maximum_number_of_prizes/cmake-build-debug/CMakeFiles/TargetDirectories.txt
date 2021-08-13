@@ -1,0 +1,3 @@
+/home/yasser/CLionProjects/6_maximum_number_of_prizes/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/yasser/CLionProjects/6_maximum_number_of_prizes/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/yasser/CLionProjects/6_maximum_number_of_prizes/cmake-build-debug/CMakeFiles/6_maximum_number_of_prizes.dir

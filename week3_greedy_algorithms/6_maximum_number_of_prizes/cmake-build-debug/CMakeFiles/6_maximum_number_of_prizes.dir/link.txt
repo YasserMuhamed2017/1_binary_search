@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/6_maximum_number_of_prizes.dir/main.cpp.o  -o 6_maximum_number_of_prizes 

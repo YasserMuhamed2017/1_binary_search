@@ -1,0 +1,3 @@
+/home/yasser/CLionProjects/5_collecting_signatures/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/yasser/CLionProjects/5_collecting_signatures/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/yasser/CLionProjects/5_collecting_signatures/cmake-build-debug/CMakeFiles/5_collecting_signatures.dir
