@@ -1,0 +1,3 @@
+/home/yasser/CLionProjects/1_money_change/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/yasser/CLionProjects/1_money_change/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/yasser/CLionProjects/1_money_change/cmake-build-debug/CMakeFiles/1_money_change.dir
