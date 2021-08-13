@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/2_majority_element.dir/main.cpp.o  -o 2_majority_element 
