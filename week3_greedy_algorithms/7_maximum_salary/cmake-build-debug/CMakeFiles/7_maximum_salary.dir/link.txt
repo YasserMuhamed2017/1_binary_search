@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/7_maximum_salary.dir/main.cpp.o  -o 7_maximum_salary 
