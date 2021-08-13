@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/4_least_common_multiple.dir/main.cpp.o  -o 4_least_common_multiple 
