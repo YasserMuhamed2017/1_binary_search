@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.17)
+project(7_last_digit_of_the_sum_of_fibonacci_numbers_again)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(7_last_digit_of_the_sum_of_fibonacci_numbers_again main.cpp)
